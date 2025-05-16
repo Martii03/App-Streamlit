@@ -1,4 +1,4 @@
-name: Deploy FastAPI App on Merge to Develop
+name: Deploy APP
 
 on:
   push:
