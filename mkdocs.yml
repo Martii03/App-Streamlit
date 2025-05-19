@@ -1,4 +1,8 @@
 site_name: App de Saludo con Streamlit
+site_url: https://martii03.github.io/App-Streamlit/
+repo_url: https://github.com/martii03/App-Streamlit
+repo_name: martii03/App-Streamlit
+
 theme:
   name: material
   language: es
@@ -7,6 +11,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.top
+    - search.highlight
 
 nav:
   - Inicio: index.md
