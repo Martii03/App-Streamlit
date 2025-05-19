@@ -1,5 +1,7 @@
 # Aplicación de Saludo con Streamlit
 
+![Logo de la aplicación](images/streamlit-logo.png)
+
 Bienvenido/a a la **Aplicación de Saludo con Streamlit**.
 
 Esta app permite a los usuarios ingresar su nombre y recibir un saludo personalizado de manera sencilla y rápida, utilizando la tecnología de Streamlit.
